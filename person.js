@@ -7,10 +7,10 @@ document.querySelector("h1").textContent = "Hej " + navn;
 
 document.addEventListener("DOMContentLoaded", hentData);
 
-const url = "https://persongalleri-5d3e.restdb.io/rest/persongalleri/";
+const url = "https://persongalleri-7d02.restdb.io/rest/personliste";
 const options = {
   headers: {
-    "x-apikey": "600fe9211346a1524ff12e31",
+    "x-apikey": "63ea12d8478852088da68181",
   },
 };
 
